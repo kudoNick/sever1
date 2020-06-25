@@ -20,5 +20,35 @@
      "comment1":"Hồ Gươm hay hồ Hoàn Kiếm là một trong những nơi nên đến ở Hà Nội khi du lịch thủ đô. Nằm ở giữa trung tâm, Hồ Gươm được ví như trái tim của thành phố ngàn năm tuổi này.. Mặt hồ như tấm gương lớn soi bóng những cây cổ thụ, những rặng liễu thướt tha tóc rủ, những mái đền, chùa cổ kính, tháp cũ rêu phong, các toà nhà mới cao tầng vươn lên trời xanh.",
      "comment2":"Một trải nghiệm thú vị dành cho khách du lịch là đi bộ một vòng hồ, bạn sẽ được thấy một Hà Nội cổ kính nhưng vẫn đầy hiện đại hiện lên thật rõ ràng. Bên cạnh hồ là những công trình kiến trúc như tháp Bút, đài Nghiên, cầu Thê Húc dẫn vào đền Ngọc Sơn, đền vua Lê Thái Tổ, tháp Hoà Phong"
     }
+  ],
+  "place": [
+    {
+      "place": "Hà Nội",
+      "id": 1
+    },
+    {
+      "place": "Hồ Chí Minh",
+      "id": 2
+    },
+    {
+      "place": "Đà Nẵng ",
+      "id": 3
+    },
+    {
+      "place": "Nha Trang",
+      "id": 4
+    },
+    {
+      "place": "Hà Giang",
+      "id": 5
+    },
+    {
+      "place": "Hạ Long",
+      "id": 6
+    },
+    {
+      "place": "Đà lạt",
+      "id": 7
+    }
   ]
 }

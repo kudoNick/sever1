@@ -9,6 +9,96 @@
      "textImg2":"Những đoàn người trật tự đang nối đuôi nhau vào lăng bác.",
      "comment1":"Nếu đã đặt chân tới mảnh đất ngàn năm văn hiến thì Lăng Bác – Quảng trường Ba Đình là địa điểm du lịch ở Hà Nội mà các bạn không thể bỏ qua. Nơi đây là trung tâm chính trị của Việt Nam với nhà Quốc hội,Phủ Chủ tịch, Bảo tàng Hồ Chí Minh,... Lăng bác còn là nơi lưu giữ thi hài của bị lãnh tụ Kính yêu. Bên ngoài lăng là những hàng tre xanh bát ngát. Lăng chủ tịch mở cửa vào thứ 3.4.5.7 và chủ nhật. Khi vào viếng lăng Bác, bạn chú ý ăn mặc chỉnh tề, không đem theo các thiết bị điện tử ghi hình và giữ trật tự trong lăng.",
      "comment2":"Quảng trường Ba Đình là quảng trường lớn nhất Việt Nam, nằm trên đường Hùng Vương và trước Lăng Chủ Tịch Hồ Chí Minh. Quảng trường này còn là nơi ghi nhật nhiều dấu ấn quan trọng trong lịch sử Việt Nam. Đặc biệt, vào ngày 2 tháng 9 năm 1945, Chủ tịch Chính phủ Cách mạng lâm thời Việt Nam Dân Chủ Cộng Hòa Hồ Chí Minh đã đọc bản tuyên ngôn độc lập khai sinh ra nước Việt Nam Dân chủ Cộng Hòa. Đây cũng là nơi diễn ra các cuộc diễu hành nhân dịp các ngày lễ lớn của Việt Nam, Và cũng là một địa điểm tham quan, vui chơi, dạo mát của du khách và người dân Hà Nội."
-    }
+    },
+    { "id": 2,
+     
+      "namePlace" : "Hồ Gươm",
+      "img1":"https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/06/dia-diem-du-lich-ha-noi-3.jpg",
+     "textImg1":"Buổi sáng những người dân Hà Nội thường đến Hồ Gươm để tập thể dục như một nét văn hoá riêng đặc trưng của Thủ đô.",
+     "img2":"https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/06/ho-guom-ha-noi.jpg",
+     "textImg2":"Chụp cùng tháp Rùa – biểu tượng của thủ đô Hà Nội.",
+     "comment1":"Hồ Gươm hay hồ Hoàn Kiếm là một trong những nơi nên đến ở Hà Nội khi du lịch thủ đô. Nằm ở giữa trung tâm, Hồ Gươm được ví như trái tim của thành phố ngàn năm tuổi này.. Mặt hồ như tấm gương lớn soi bóng những cây cổ thụ, những rặng liễu thướt tha tóc rủ, những mái đền, chùa cổ kính, tháp cũ rêu phong, các toà nhà mới cao tầng vươn lên trời xanh.",
+     "comment2":"Một trải nghiệm thú vị dành cho khách du lịch là đi bộ một vòng hồ, bạn sẽ được thấy một Hà Nội cổ kính nhưng vẫn đầy hiện đại hiện lên thật rõ ràng. Bên cạnh hồ là những công trình kiến trúc như tháp Bút, đài Nghiên, cầu Thê Húc dẫn vào đền Ngọc Sơn, đền vua Lê Thái Tổ, tháp Hoà Phong"
+    },
+{
+"id": 3,
+"namePlace": "Phố cổ Hà Nội",
+"img1": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/06/pho-co-ha-noi.jpg",
+"textImg1": "Nét đẹp phố cổ",
+"img2": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/06/pho-hang-ma-ha-noi.jpg",
+"textImg2": "Góc phố hàng Mã mỗi dịp Noel về",
+"comment1": "Muốn tìm hiểu về cuộc sống, văn hóa và con người Tràng An thì bạn đừng bỏ qua phố cổ – một trong những địa điểm du lịch ở Hà Nội đầy thú vị và hấp dẫn với du khách. Phố cổ Hà Nội nằm ở phía Tây và phía Bắc của Hồ Hoàn Kiếm, là nơi tập trung đông dân cư sinh sống có 36 phố phường. Mỗi con phố ở đây chủ yếu tập trung bán một loại mặt hàng nhất định.",
+"comment2": "Lang thang ở khu phố và thưởng thức ẩm thực phố cổ như phở Bát Đàn, chả cá Lã Vọng, bún chả hàng Mành, mì vằn thắn Đinh Liệt, bún ốc nguội Ô Quan Chưởng,…sẽ khiến chuyến đi của bạn đáng nhớ hơn rất nhiều!"
+},
+{
+"id": 4,
+"namePlace": "Văn Miếu – Quốc Tử Giám",
+"img1": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/06/van-mieu-quoc-tu-giam-ha-noi.jpg",
+"textImg1": "Văn Miếu quốc tử giám là điểm đến của nhiều học sinh, sinh viên mỗi kỳ thi quan trọng để cầu may mắn.",
+"img2": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/06/van-mieu-quoc-tu-giam-1.jpg",
+"textImg2": "Kiến trúc cổ kính đưa ta về những hoài niệm xưa của đất nước.",
+"comment1": "Nếu kể tên các địa điểm du lịch Hà Nội bậc nhất xưa và nay có lẽ ai cũng sẽ nghĩ ngay đến Văn Miếu Quốc Tử Giám. Đây là một quần thể kiến trúc văn hoá hàng đầu và là niềm tự hào của người dân Thủ đô khi nhắc đến truyền thống ngàn năm văn hiến của Thăng Long – Đông Đô – Hà Nội.",
+"comment2": "Văn Miếu Quốc Tử Giám được xem là biểu tượng của tri thức, của nền giáo dục Việt Nam. Đây là nơi thờ phụng các bậc Tiên thánh, Tiên sư của đạo Nho và Tư nghiệp Quốc Tử Giám Chu Văn An – người thầy tiêu biểu về đạo cao, đức trọng của nền giáo dục Việt Nam. "
+},
+{
+"id": 5,
+"namePlace": "Nhà thờ lớn Hà Nội",
+"img1": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/06/nha-tho-lon-ha-noi.jpg",
+"textImg1": "Nhà thớ lớn – niềm tự hào của Hà Nội.",
+"img2": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/06/tra-chanh-nha-tho.jpg",
+"textImg2": "Trà chanh nhà thờ là thói quen của giới trẻ Hà Nội.",
+"comment1": "Nằm ở 40 phố Nhà Chung, phường Hàng Trống, Nhà thờ lớn là một trong những điểm đến thú vị ở Hà Nội, nơi lui tới không chỉ của các tín đồ theo đạo mà còn là địa điểm quen thuộc của giới trẻ, khách du lịch tứ phương. Nhà thờ được thiết kế theo phong cách kiến trúc Gothic trung cổ châu Âu với bức tường xây cao, có mái vòm và nhiều cửa sổ.",
+"comment2": "Bên trong nhà thờ, khu cung thánh chạm trổ hoa văn bằng gỗ sơn son thiếp vàng kết hợp với hệ thống tranh Thánh bằng kính màu. Cảm giác như được đứng trong một lâu đài cổ kính cùng điệu nhạc cổ điển, chắc hẳn bạn đang rất muốn thử phải không."
+},
+{
+"id": 6,
+"namePlace": "Chùa Trấn Quốc",
+"img1": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/06/chua-tran-quoc-ha-noi-1.jpg",
+"textImg1": "Chùa Trấn Quốc uy nghiêm nổi bật giữa lòng Hà Nội.",
+"img2": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/06/chua-tran-quoc-ha-noi.jpg",
+"textImg2": "Không gian chùa yên tĩnh và bình yên.",
+"comment1": "Chùa Trấn Quốc là một trong những ngôi chùa cổ nhất ở Hà Nội và Việt Nam, nằm trên một bán đảo phía Nam của Hồ Tây, ở gần cuối đường Thanh Niên, quận Ba Đình, Hà Nội. Từng là trung tâm Phật giáo của kinh thành Thăng Long vào thời Lý và thời Trần với những giá trị về lịch sử và kiến trúc, chùa Trấn Quốc nổi tiếng là chốn cửa Phật linh thiêng, là điểm thu hút rất nhiều tín đồ Phật tử, khách tham quan, du lịch trong và ngoài nước.",
+"comment2": "Đầu năm 2017, chùa Trấn Quốc được lọt vào danh sách 16 ngôi chùa đẹp nhất thế giới do báo Daily Mail (Anh) bình chọn. Hãy ghé thăm chùa Trấn Quốc, đảm bảo bạn sẽ ngạc nhiên trước không gian tĩnh lặng, vẻ đẹp nên thơ của “đóa sen” nổi trên mặt nước hồ Tây."
+},
+{
+"id": 7,
+"namePlace": "Hồ Tây",
+"img1": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/06/ho-tay-ha-noi.jpg",
+"textImg1": "Hoàng hôn trên Hồ Tây đẹp đến nao lòng.",
+"img2": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/06/ho-tay-ha-noi-1.jpg",
+"textImg2": "Mùa thu trên Hồ Tây.",
+"comment1": "Hồ Tây một trong những danh thắng nổi tiếng của thủ đô Hà Nội, đây được coi là một “sân khấu khổng lồ soi bóng mây trời và cảnh quan thành phố”. Khung cảnh ven hồ Tây vô cùng thi vị, mơ mộng. Bao quanh hồ là những hàng cây xanh cao thẳng tắp, rồi những bồn hoa , thềm cỏ xanh mướt mọc xung quanh đã tạo ra một khung cảnh đặc biệt cho hồ Tây.",
+"comment2": "Cái làm nên nét đặc biệt cho Hồ Tây, phân biệt nó với các hồ khác ở Hà Nội không chỉ là khung cảnh mà còn là sắc nước. Sắc nước mỗi mùa đều có sự thay đổi một cách kì diệu và ngoạn mục theo thời tiết, lúc xanh, lúc xám, rồi khi sáng khi tối… Và khung cảnh Hồ Tây trở nên rực rỡ thăng hoa nhất có lẽ là vào khoảnh khắc cuối ngày- khi ánh hoàng hôn buông xuống bao phủ lên cảnh vật,cùng cái mờ ảo của ánh đèn đường hắt xuống mặt nước tạo nên một khung cảnh cực kì huyền ảo, lãng mạn."
+},
+{
+"id": 8,
+"namePlace": "Nhà hát lớn Hà Nội",
+"img1": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/06/nha-hat-lon-ha-noi-1.jpg",
+"textImg1": "Nhà hát lớn Hà Nội là nơi tổ chức các chương trình ca nhạc lớn của cả nước.",
+"img2": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/06/nha-hat-lon-ha-noi.jpg",
+"textImg2": "Nhà hát Hà Nội mang nét đẹp cổ kính nơi thủ đô.",
+"comment1": "Nằm ở số 1 Tràng Tiền, Nhà hát lớn là một trong các địa điểm du lịch đẹp ở Hà Nội mang nhiều dấu ấn lịch sử. Đây là địa điểm tổ chức những chương trình nghệ thuật lớn của nhiều ca sĩ, nghệ sĩ tên tuổi hàng đầu Việt Nam. Du khách có thể chiêm ngưỡng kiến trúc tuyệt vời của Nhà hát Lớn hay mua vé vào xem một trong những chương trình biểu diễn thường xuyên được tổ chức để có thể tận mắt thấy được hết nội thất tráng lệ của nhà hát.",
+"comment2": "Sau một thời gian dài bị xuống cấp, công trình lấy lại được vẻ đẹp xưa cũ sau đợt trùng tu từ năm 1995 đến năm 1997, chuẩn bị cho Hội nghị thượng đỉnh của Cộng đồng Pháp ngữ. Ngày nay, Nhà hát Lớn là một trong những địa điểm biểu diễn quan trọng bậc nhất ở Hà Nội, được những người làm nghệ thuật coi như một "ngôi đền" dành cho nghệ thuật cổ điển.[3] Cũng như nhiều công trình kiến trúc và cả những loại hình văn hóa phi vật thể khác, Nhà hát Lớn Hà Nội trở thành minh chứng cho một giai đoạn lịch sử của thành phố, thời kỳ mà các nền văn hóa giao thoa lẫn nhau"
+},
+{
+"id": 9,
+"namePlace": "Nhà tù Hỏa Lò",
+"img1": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/06/dia-diem-du-lich-ha-noi-nha-tu-hoa-lo.jpg",
+"textImg1": "Nhà tù Hỏa Lò địa điểm tham quan ở Hà Nội nổi tiếng",
+"img2": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/06/nha-tu-hoa-lo.jpg",
+"textImg2": "Tìm hiểu về lịch sử đáng tự hào của đất nước tại nhà tù hoả lò.",
+"comment1": "Nhà tù Hỏa Lò được thực dân Pháp xây dựng từ năm 1896 với tên gọi “Maison Central”, là nơi giam giữ những chiến sĩ cách mạng chống lại chế độ thực dân. Đây là một trong những công trình kiên cố vào loại bậc nhất Đông Dương khi đó. Sau ngày giải phóng thủ đô, nhà tù được đặt dưới quyền của chính quyền cách mạng. Từ năm 1963 đến 1975, nơi đây còn được sử dụng để làm nơi giam giữ những phi công Mỹ bị quân đội Việt Nam bắn rơi trong cuộc chiến tranh phá hoại miền Bắc. ",
+"comment2": "Ngày nay nhà tù Hỏa Lò trở thành di tích lịch sử đặc biệt với nhiều tư liệu quý giá được trưng bày và giữ gìn cẩn thận, thu hút hàng ngàn du khách trong và ngoài nước tới tham quan mỗi năm."
+},
+{
+"id": 10,
+"namePlace": "Hoàng thành Thăng Long",
+"img1": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/06/hoang-thanh-thang-long.jpg",
+"textImg1": "Hoàng thành Thăng Long khu di tích lịch sử của Hà Nội",
+"img2": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/06/hoang-thanh-thang-long-1.jpg",
+"textImg2": "Bình minh trên hoàng thành.",
+"comment1": "Hoàng thành Thăng Long là quần thể di tích gắn liền với sự phát triển của Thăng Long – Hà Nội, được các triều vua xây dựng trong nhiều giai đoạn lịch sử. Đây cũng là di tích quan trọng bậc nhất trong hệ thống các di tích lịch sử của Việt Nam. Đến Hoàng thành Thăng Long du khách có thể tham quan những địa điểm nổi bật như khu khảo cổ học số 18 Hoàng Diệu, Đoan Môn, Điện Kính Thiên, Bắc Môn (thành Cửa Bắc)…",
+"comment2": "Cuối thế kỷ IX, chính quyền trung ương nhà Đường suy yếu nghiêm trọng. Đầu thế kỷ X, các thế lực cát cứ nổi lên đánh giết lẫn nhau, tạo ra thế loạn chia cắt Ngũ Đại Thập Quốc. Khúc Thừa Dụ, khi đó là Hào trưởng Chu Diên, được dân chúng ủng hộ, đã tiến ra chiếm đóng phủ thành Đại La, tự xưng là Tiết độ sứ. Sau khi đã nắm được quyền lực thực tế trên đất Tĩnh Hải quân, ông đã cho xây dựng chính quyền dựa trên danh xưng của chính quyền đô hộ nhà Đường, nhưng thực chất là một chính quyền độc lập và do người Việt quản lý."
+}
   ]
 }

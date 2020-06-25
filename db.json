@@ -1,7 +1,7 @@
 {
   "detailPlace": [
     { "id": 1,
-     "placeId":"1",
+     
       "namePlace" : "Quảng trường Ba Đình – Lăng Bác",
       "img1":"https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/06/quang-truong-ba-dinh-54bcaffd67cd7-1.jpg",
      "textImg1":"Lăng bác",
@@ -11,7 +11,7 @@
      "comment2":"Quảng trường Ba Đình là quảng trường lớn nhất Việt Nam, nằm trên đường Hùng Vương và trước Lăng Chủ Tịch Hồ Chí Minh. Quảng trường này còn là nơi ghi nhật nhiều dấu ấn quan trọng trong lịch sử Việt Nam. Đặc biệt, vào ngày 2 tháng 9 năm 1945, Chủ tịch Chính phủ Cách mạng lâm thời Việt Nam Dân Chủ Cộng Hòa Hồ Chí Minh đã đọc bản tuyên ngôn độc lập khai sinh ra nước Việt Nam Dân chủ Cộng Hòa. Đây cũng là nơi diễn ra các cuộc diễu hành nhân dịp các ngày lễ lớn của Việt Nam, Và cũng là một địa điểm tham quan, vui chơi, dạo mát của du khách và người dân Hà Nội."
     },
     { "id": 2,
-     "placeId":"2",
+     
       "namePlace" : "Hồ Gươm",
       "img1":"https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/06/dia-diem-du-lich-ha-noi-3.jpg",
      "textImg1":"Buổi sáng những người dân Hà Nội thường đến Hồ Gươm để tập thể dục như một nét văn hoá riêng đặc trưng của Thủ đô.",
@@ -19,36 +19,6 @@
      "textImg2":"Chụp cùng tháp Rùa – biểu tượng của thủ đô Hà Nội.",
      "comment1":"Hồ Gươm hay hồ Hoàn Kiếm là một trong những nơi nên đến ở Hà Nội khi du lịch thủ đô. Nằm ở giữa trung tâm, Hồ Gươm được ví như trái tim của thành phố ngàn năm tuổi này.. Mặt hồ như tấm gương lớn soi bóng những cây cổ thụ, những rặng liễu thướt tha tóc rủ, những mái đền, chùa cổ kính, tháp cũ rêu phong, các toà nhà mới cao tầng vươn lên trời xanh.",
      "comment2":"Một trải nghiệm thú vị dành cho khách du lịch là đi bộ một vòng hồ, bạn sẽ được thấy một Hà Nội cổ kính nhưng vẫn đầy hiện đại hiện lên thật rõ ràng. Bên cạnh hồ là những công trình kiến trúc như tháp Bút, đài Nghiên, cầu Thê Húc dẫn vào đền Ngọc Sơn, đền vua Lê Thái Tổ, tháp Hoà Phong"
-    }
-  ],
-  "place": [
-    {
-      "place": "Hà Nội",
-      "id": 1
-    },
-    {
-      "place": "Hồ Chí Minh",
-      "id": 2
-    },
-    {
-      "place": "Đà Nẵng ",
-      "id": 3
-    },
-    {
-      "place": "Nha Trang",
-      "id": 4
-    },
-    {
-      "place": "Hà Giang",
-      "id": 5
-    },
-    {
-      "place": "Hạ Long",
-      "id": 6
-    },
-    {
-      "place": "Đà lạt",
-      "id": 7
     }
   ]
 }

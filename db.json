@@ -24,31 +24,31 @@
   "place": [
     {
       "place": "Hà Nội",
-      "id": 1,
+      "id": 1
     },
     {
       "place": "Hồ Chí Minh",
-      "id": 2,
+      "id": 2
     },
     {
       "place": "Đà Nẵng ",
-      "id": 3,
+      "id": 3
     },
     {
       "place": "Nha Trang",
-      "id": 4,
+      "id": 4
     },
     {
       "place": "Hà Giang",
-      "id": 5,
+      "id": 5
     },
     {
       "place": "Hạ Long",
-      "id": 6,
+      "id": 6
     },
     {
       "place": "Đà lạt",
-      "id": 7,
+      "id": 7
     }
   ]
 }
